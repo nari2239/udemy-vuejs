@@ -1,5 +1,8 @@
 <template>
-  <LikeNumber></LikeNumber>
+  <div>
+    <LikeHeader></LikeHeader>
+    <LikeNumber></LikeNumber>
+  </div>
 </template>
 
 <script>
